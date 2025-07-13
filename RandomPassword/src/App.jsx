@@ -45,7 +45,7 @@ function App() {
         transition={{ duration: 0.6 }}
       >
         <h1 className="text-3xl sm:text-4xl font-extrabold text-cyan-300 mb-4">
-          VaultKey
+          YourVaultPass
         </h1>
         <p className="text-gray-300 text-base sm:text-lg">
           A private, secure password generator that anyone can use — no tech skills needed. Create strong, random passwords instantly.
@@ -126,7 +126,7 @@ function App() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.6 }}
       >
-        <h2 className="text-lg sm:text-xl font-bold pl-4 text-cyan-300 mb-4">How VaultKey Works</h2>
+        <h2 className="text-lg sm:text-xl font-bold pl-4 text-cyan-300 mb-4">How YourVaultPass Works</h2>
         <ul className="list-disc list-inside space-y-2 pl-4 text-sm text-gray-400">
           <li>Choose the length of your password using the slider.</li>
           <li>Toggle whether to include numbers or special characters.</li>
