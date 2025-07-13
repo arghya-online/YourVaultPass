@@ -19,9 +19,9 @@ Designed with a clean, intuitive UI, VaultKey is ideal for both technical and no
 
 ## Live Demo
 
-If hosted, include a link here:
+The app link is:
 
-[https://your-deployment-url.com](https://your-deployment-url.com)
+(https://yourvaultpass.vercel.app/)
 
 ---
 
